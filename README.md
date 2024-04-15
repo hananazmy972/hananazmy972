@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hana Nazmy</h1>
 <h3 align="center">Undergrad Student Driven by Passion for Problem-Solving and Tech Discovery.</h3>
 
-- 🌱 I’m currently learning Software Development **.Net Web Developer**
+- 🏫 I am an UnderGraduate Student at Faculty of Computers & Informatics at Suez Canal University.
+- 🔭 currently part of Digital Egypt Pioneers Initiative (DEPI).
+- 🌱 I'm interested in learning software development.
+- 🏋‍♀ Continuously expanding my knowledge base.
 
 - 📫 How to reach me **hananazmy712@gmail.com**
 
