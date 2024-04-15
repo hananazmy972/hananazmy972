@@ -5,8 +5,8 @@
 - 🔭 currently part of **Digital Egypt Pioneers Initiative (DEPI)**.
 - 🌱 I'm interested in learning **software development**.
 - 🏋‍♀ Continuously expanding my knowledge base.
+- 🧐 I’m looking to collaborate on back-end projects.
 
-- 📫 How to reach me **hananazmy712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
