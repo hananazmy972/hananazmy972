@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/hana-nazmy-b065b925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana-nazmy-b065b925b" height="30" width="40" /></a>
 &nbsp;&nbsp;
 <a href="mailto:your.email@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="45" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="50" />
 </a>
 </p>
 
