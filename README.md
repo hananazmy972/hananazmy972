@@ -4,7 +4,7 @@
 - 🏫 I am an UnderGraduate Student at Faculty of **Computers & Informatics** at Suez Canal University.
 - 🌱 I'm interested in learning **software development**.
 - 🏋‍♀ Continuously expanding my knowledge base.
-- 🧐 I’m looking to collaborate on back-end projects.
+
 
 
 <h3 align="left">Connect with me:</h3>
