@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hana Nazmy</h1>
 <h3 align="center">Undergrad Student Driven by Passion for Problem-Solving and Tech Discovery.</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 
 - 🏫 I am an UnderGraduate Student at Faculty of **Computers & Informatics** at Suez Canal University.
 - 🌱 I'm interested in learning **software development**.
