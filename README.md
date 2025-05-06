@@ -52,9 +52,4 @@ I am an UnderGraduate Student at Faculty of **Computers & Informatics** at Suez 
 
 ---
 
-### 📊 Profile contribution
 
-> 3D Contrib
-
-
-> Contribution Graph
