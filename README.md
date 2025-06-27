@@ -63,6 +63,11 @@ I am an UnderGraduate Student at Faculty of **Computers & Informatics** at Suez 
 
 ### 📊 Profile stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark" alt="GitHub Streak Stats" />
+</p>
+### 📊 Profile stats
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hananazmy972&theme=dark" /></p>
 
