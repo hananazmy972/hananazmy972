@@ -1,73 +1,97 @@
-<h1 align="center">Hi there!, I'm Hana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B5CF93&width=435&lines=Software+Engineer;.Net+developer;Continuously+expanding+my+knowledge+base"></a>
-</p>
-
-## About Me
-
-<img align="right" width = 250px height = 200px alt="Github" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGR4c2lrd2wxaWhpdWFiOXM5M3Jub2cxYTJ2a2JwZnRwc2liODZndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" />
-
-I am an UnderGraduate Student at Faculty of **Computers & Informatics** at Suez Canal University.
-
-
-- 💻 &nbsp;  Currently learning **software development** with a focus on **backend development using ASP.NET**.
-  
-- 🤝&nbsp;   Open to **collaborating on development projects** to learn, grow, and build impactful solutions together.
-
-
-  <!-- How to reach me -->
-<h3 align="left">How to reach me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hana-nazmy-b065b925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana-nazmy-b065b925b" height="30" width="40" /></a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="50" />
-</a>
-</p>
-
-<br/>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="cplusplus" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".Net" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt=".Net" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-
-<br>
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="sqlServer" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="postman" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="git" width="40" height="40"/>
-
-
- </p>
-
-
-<br>
-
----
-
-
-
-
-
-
-
-### 📊 Profile stats
+<h1 align="center">Hi, I'm Hana Nazmy 👋</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark" alt="GitHub Streak Stats" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EBF8B&width=500&lines=Software+Engineer+%7C+Backend+Developer;Passionate+about+Project+Management;Always+Expanding+My+Knowledge+in+Tech"></a>
 </p>
+
 
 
 ---
 
+## 👩‍💻 About Me
 
+- Software Engineer with hands-on experience in **backend development**, specializing in **ASP.NET Core** and building scalable, production-ready APIs.
+
+- Passionate about **System Architecture and System Design** — I enjoy thinking through how systems are structured, how components interact, and how to build things that scale.
+
+- Strong interest in **Project Management** — I follow its techniques, tools, and methodologies, and I actively apply them in team settings.
+
+- 🤝 &nbsp; Open to collaborating on meaningful backend or full-stack projects where I can contribute, learn from great engineers, and help ship impactful software.
+
+<h3 align="center">Reach me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/hana-nazmy-b065b925b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hananazmy712@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authentication_%26_Authorization-4A4A4A?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<h3 align="center">Frontend (Basics)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+<h3 align="center">Architecture & Concepts</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_API_Design-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-6EBF8B?style=for-the-badge&logoColor=white" />
+</p>
+
+<h3 align="center">Tools & Workflow</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</p>
+
+<h3 align="center">Project Management</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
