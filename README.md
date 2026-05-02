@@ -5,9 +5,6 @@
 </p>
 
 
-
----
-
 ## 👩‍💻 About Me
 
 - Software Engineer with hands-on experience in **backend development**, specializing in **ASP.NET Core** and building scalable, production-ready APIs.
