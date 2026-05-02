@@ -4,17 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EBF8B&width=500&lines=Software+Engineer+%7C+Backend+Developer;Passionate+about+Project+Management;Always+Expanding+My+Knowledge+in+Tech"></a>
 </p>
 
-
-## 👩‍💻 About Me
-
-- Software Engineer with hands-on experience in **backend development**, specializing in **ASP.NET Core** and building scalable, production-ready APIs.
-
-- Passionate about **System Architecture and System Design** — I enjoy thinking through how systems are structured, how components interact, and how to build things that scale.
-
-- Strong interest in **Project Management** — I follow its techniques, tools, and methodologies, and I actively apply them in team settings.
-
-- 🤝 &nbsp; Open to collaborating on meaningful backend or full-stack projects where I can contribute, learn from great engineers, and help ship impactful software.
-
 <h3 align="center">Reach me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/hana-nazmy-b065b925b">
@@ -28,6 +17,29 @@
 
 ---
 
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td valign="middle" width="55%">
+
+Software Engineer with solid experience in **Backend Development**, specializing in **.NET** and building robust, scalable systems.
+
+- Passionate about **System Architecture & System Design**  
+- Focused on **Scalability, Performance & Clean Code Practices**  
+- Interested in **Project Management** — techniques, tools, and methodologies  
+
+</td>
+<td valign="middle" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3F3bHkwOWw5aDdwN2ZmNnIzb2VqZGhvdWNoeGVvM2gxcGx6aTg5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlvseq9yvZhba/giphy.gif" width="200px" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 <h3 align="center">Backend</h3>
@@ -37,7 +49,7 @@
   <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/RESTful_API_Design-0052CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Authentication_%26_Authorization-4A4A4A?style=for-the-badge&logoColor=white" />
 </p>
@@ -50,7 +62,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<h3 align="center">Frontend </h3>
+<h3 align="center">Frontend (Basics)</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -74,7 +86,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <h3 align="center">Project Management</h3>
