@@ -4,16 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EBF8B&width=500&lines=Software+Engineer+%7C+Backend+Developer;Passionate+about+Project+Management;Always+Expanding+My+Knowledge+in+Tech"></a>
 </p>
 
-<h3 align="center">Reach me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/hana-nazmy-b065b925b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:hananazmy712@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
@@ -26,7 +17,7 @@
 Software Engineer with solid experience in **Backend Development**, specializing in **.NET** and building robust, scalable systems.
 
 - Passionate about **System Architecture & System Design**  
-- Focused on **Scalability, Performance & Clean Code Practices**  
+- Focused on **Scalability, Performance & Clean Architecture** 
 - Interested in **Project Management** — techniques, tools, and methodologies  
 
 </td>
@@ -37,6 +28,17 @@ Software Engineer with solid experience in **Backend Development**, specializing
 </td>
 </tr>
 </table>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/hana-nazmy-b065b925b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hananazmy712@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -49,7 +51,7 @@ Software Engineer with solid experience in **Backend Development**, specializing
   <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_API_Design-0052CC?style=for-the-badge&logoColor=white" />
+
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Authentication_%26_Authorization-4A4A4A?style=for-the-badge&logoColor=white" />
 </p>
