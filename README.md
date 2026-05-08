@@ -23,7 +23,7 @@ Software Engineer with solid experience in **Backend Development**, specializing
 </td>
 <td valign="middle" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3F3bHkwOWw5aDdwN2ZmNnIzb2VqZGhvdWNoeGVvM2gxcGx6aTg5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlvseq9yvZhba/giphy.gif" width="200px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnc3enI2aGxkMndqNTc3b3kxdWkwejU1NG01aXo1a2wwb2pldzg2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FJ2W3zqB7ZqfF0B4HU/giphy.gif" width="200px" />
 
 </td>
 </tr>
