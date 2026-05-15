@@ -14,11 +14,11 @@
 <tr>
 <td valign="middle" width="55%">
 
-Software Engineer with solid experience in **Backend Development**, specializing in **.NET** and building robust, scalable systems.
+**Software Engineer** with solid experience in **Backend Development**, driven by a passion for designing and building systems while understanding how technical decisions impact scalability, reliability, performance, and long-term maintainability.
 
-- Passionate about **System Architecture & System Design**  
-- Focused on **Scalability, Performance & Clean Architecture** 
-- Interested in **Project Management** — techniques, tools, and methodologies  
+- Interested in **System Design & Scalable Architectures**
+- Enjoy planning, organizing, and leading **development workflows**
+- Believe great software is built through thoughtful design, **not just code**
 
 </td>
 <td valign="middle" width="45%" align="center">
@@ -69,6 +69,7 @@ Software Engineer with solid experience in **Backend Development**, specializing
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 <h3 align="center">Architecture & Concepts</h3>
