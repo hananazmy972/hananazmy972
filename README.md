@@ -12,11 +12,15 @@
 
 ## 👩‍💻 About Me
 
-**Software Engineer** with solid experience in **Backend Development**, driven by a passion for designing and building systems while understanding how technical decisions impact scalability, reliability, performance, and long-term maintainability.
+🎓 Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
 
-- Interested in **System Design & Scalable Architectures**
-- Enjoy planning, organizing, and leading **development workflows**
-- Believe great software is built through thoughtful design, **not just code**
+💡 I'm naturally curious about *how* things work—not just the code, but the business logic, the user's problem, and the "why" behind every technical decision.
+
+My current focus is **Backend Development with .NET**, but my curiosity doesn't stop at the API layer. I'm equally interested in **System Design**, **Product Thinking**, and understanding how great software evolves from an idea into a valuable product.
+
+- 🚀 Building backend applications with **ASP.NET Core & C#**
+- 📐 Continuously learning **System Design** and software engineering best practices
+- 🧠 Passionate about **Product Thinking**—bridging business needs and technical solutions
 
 ---
 
@@ -77,11 +81,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hananazmy972&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hananazmy972/hananazmy972/snake-output/snake.svg" alt="Snake animation" />
-</p>
