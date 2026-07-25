@@ -5,14 +5,14 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnc3enI2aGxkMndqNTc3b3kxdWkwejU1NG01aXo1a2wwb2pldzg2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FJ2W3zqB7ZqfF0B4HU/giphy.gif" width="200px" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqcmh6c2VqZHgza2I2cTF1NjFma3l1NGFqdzY5ODFsYzl2OWxuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UG933w4wuHhENF27De/giphy.gif" width="400px" />
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
+🎓 Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
 
 💡 I'm naturally curious about *how* things work—not just the code, but the business logic, the user's problem, and the "why" behind every technical decision.
 
