@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
+Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
 
 💡 I'm naturally curious about *how* things work—not just the code, but the business logic, the user's problem, and the "why" behind every technical decision.
 
