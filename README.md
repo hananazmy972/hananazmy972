@@ -64,7 +64,6 @@ My current focus is **Backend Development with .NET**, but my curiosity doesn't 
   <img src="https://img.shields.io/badge/SOLID_Principles-6EBF8B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Design_Patterns-6EBF8B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful_API_Design-6EBF8B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-6EBF8B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white" />
 </p>
