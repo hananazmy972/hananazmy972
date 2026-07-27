@@ -44,23 +44,30 @@ My current focus is **Backend Development with .NET**, but my curiosity doesn't 
   <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
 </p>
 
-<h3>Cloud & DevOps</h3>
-<p>
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-</p>
-
 <h3>Tools & Platforms</h3>
 <p>
   <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+    <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" alt="Swagger" />
+    <img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
   <img width="48" height="48" src="https://skillicons.dev/icons?i=notion" alt="Notion" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" alt="Swagger" />
+
 </p>
 
+<h3>Architecture & Concepts</h3>
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Patterns-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_API_Design-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-6EBF8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
