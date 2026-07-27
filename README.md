@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
+🎓 Computer Science graduate who loves turning "wouldn't it be cool if..." ideas into real, working software.
 
 💡 I'm naturally curious about *how* things work—not just the code, but the business logic, the user's problem, and the "why" behind every technical decision.
 
@@ -28,28 +28,40 @@ My current focus is **Backend Development with .NET**, but my curiosity doesn't 
 
 <h3>Web Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react" alt="C#, .NET, HTML, CSS, JavaScript, React" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=react" alt="React" />
 </p>
 
 <h3>Databases</h3>
 <p>
   <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" alt="PostgreSQL, Supabase, Firebase" />
-  &nbsp;
-
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
 </p>
 
 <h3>Cloud & DevOps</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker, Linux" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </p>
 
 <h3>Tools & Platforms</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,notion" alt="Git, GitHub, Postman, VS Code, Visual Studio, Notion" />
-  &nbsp;
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swagger.svg" alt="Swagger" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+  <img width="48" height="48" src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+
 </p>
+
 
 ---
 
@@ -72,4 +84,3 @@ My current focus is **Backend Development with .NET**, but my curiosity doesn't 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
