@@ -87,5 +87,5 @@ My current focus is **Backend Development with .NET**, but my curiosity doesn't 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=hananazmy972&theme=dark&hide_border=true&v=1" alt="GitHub Streak Stats" />
 </p>
