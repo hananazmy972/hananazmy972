@@ -16,7 +16,7 @@ Computer Science graduate who loves turning "wouldn't it be cool if..." ideas in
 
 💡 I'm naturally curious about *how* things work—not just the code, but the business logic, the user's problem, and the "why" behind every technical decision.
 
-My current focus is **Backend Development with .NET**, but my curiosity doesn't stop at the API layer. I'm equally interested in **System Design**, **Product Thinking**, and understanding how great software evolves from an idea into a valuable product.
+My current focus is Backend Development with .NET, but my curiosity doesn't stop at the API layer. I'm equally interested in System Design, Product Thinking, and quickly adapting to the tools and frameworks needed to build better software.
 
 - 🚀 Building backend applications with **ASP.NET Core & C#**
 - 📐 Continuously learning **System Design** and software engineering best practices
